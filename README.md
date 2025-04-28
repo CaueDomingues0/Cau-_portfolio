@@ -36,7 +36,7 @@ O site foi desenvolvido para apresentar as habilidades, experiências profission
 
 ## 📸 Visual do Projeto
 
-![Screenshot_4.png](CauêDomingues_portfolio/img/Screenshot_4.png)
+![Screenshot_4](https://github.com/user-attachments/assets/5e43daea-ddd0-405d-b144-254ad54d469e)
 ## 📥 Como Rodar Localmente
 
 1. Clone o repositório:
